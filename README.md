@@ -20,7 +20,7 @@ HTML · CSS · Flutter · Java · SQL
 
 ## Como visualizar
 
-Abra o arquivo `index.html` no navegador ou sirva a pasta do projeto com um servidor local estático.
+Abra o arquivo `index.html` no navegador ou acesse: https://andremch.netlify.app
 
 ## Contato
 
